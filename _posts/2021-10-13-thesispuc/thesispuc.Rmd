@@ -1,0 +1,17 @@
+---
+title: "Thesis PUC-Rio"
+description: |
+  A short description of the post.
+author:
+  - name: Daniel Coutinho
+date: 10-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Aparentemente, a versão mais recente (quando este post foi escrito) não permitia que a bibliografia fosse no estilo autor (ano). [Este projeto](https://github.com/danmrc/thesispuc-alpha) e preservar o estilo da bibliografia como deveria ser pelo padrão da universidade.  
+
+---
+
+This is just a small project that makes some small tweaks to the LaTeX class for thesis at PUC-Rio

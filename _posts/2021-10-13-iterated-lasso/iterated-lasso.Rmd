@@ -1,0 +1,20 @@
+---
+title: "Iterated LASSO"
+description: |
+  Using theory and data to select the regularization parameter for the LASSO.
+author:
+  - name: Daniel Coutinho
+date: 10-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+Minha tese de mestrado. Explora como usar o parâmetro de regularização sugerido pela teoria, que depende da variância do erro - normalmente desconhecida. Você pode acessar ela clicando [aqui]() (em inglês)
+
+---
+
+My master degree thesis. It explores how to user the regularization parameter suggested by the theory, that depends on the variance of the error - that is not usually known. You can access it cliclking [here]() (in English)
+
+

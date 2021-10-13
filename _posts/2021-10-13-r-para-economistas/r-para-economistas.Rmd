@@ -1,0 +1,18 @@
+---
+title: "R para economistas"
+description: |
+  Tutorial em portugês de como usar o R
+author:
+  - name: Daniel Coutinho
+date: 10-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Este é um projeto antigo, que visava ajudar meus colegas de graduação a se entender com o R. Vários deles não tinham facilidade com inglês e/ou computador. Você pode acessar ele clicando [aqui](https://danmrc.github.io/R-para-Economistas/)
+
+---
+
+This is an old project that I started as an undergaduate student. It's objective was to help my friends when we were undergraduates, specially those that did not find coding or English easy. You can access it by clicking [here](https://danmrc.github.io/R-para-Economistas/).  
+

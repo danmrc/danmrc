@@ -1,0 +1,16 @@
+---
+title: "Miscellaneous"
+description: |
+  Interesting stuff that does not fit any other category
+date: "`r Sys.Date()`"
+output: distill::distill_article
+listing:
+  posts:
+    - 2021-10-13-thesispuc
+---
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+---
+title: "Daniel Coutinho"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+Este é o meu site pessoal. Ele existe mais da necessidade de agrupar várias coisas que eu faço (ou fiz) em um único lugar. O site tenta ter todas as seções em português e inglês.
+
+Ao clicar em Blog, você será redirecionado para o _Azul_, o blog que eu mantenho com o Pedro Cavalcante. Todos os posts são em português. 
+
+---
+
+This is my personal website. It exists out of the necessity to aggregate everything I do in a single place. I tried to guarantee that every page is available in both English and Portuguese. 
+
+The blog link in the menu above takes you to _Azul_, a blog I keep with Pedro Cavalcante. All posts are in Portuguese. 

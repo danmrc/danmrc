@@ -1,0 +1,16 @@
+---
+title: "Research"
+date: "`r Sys.Date()`"
+description: |
+  Stuff that I did that could be called research.
+output: distill::distill_article
+listing: 
+  posts:
+    - 2021-10-13-iterated-lasso
+    - 2021-10-13-dsge-hmc
+---
+
+
+
+
+

@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About",
+      "description": "Some additional details about me",
+      "author": [],
+      "contents": "\nEducação\nMestrado na Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), Economia, 2018-2020 Graduação na Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), Ciências Ecônomicas, 2013-2017\nExperiência profissional\nAssistente de pesquisa, Prof Carlos Viana, 2020\nAssistente de pesquisa, DLab LASA (Lojas Americanas), 2017\nMonitorias\nIntrodução à Probabilidade e Estatística (graduação), 2020\nTeoria Microeconômica II (graduação), 2016\nTeoria Macroeconômica I N (graduação), 2015\nIntrodução à economia I (graduação), 2014\nBolsas\nBolsa de Mestrado, CNPQ, 2018-2020\nPrograma de Educação Tutorial (PET), graduação, 2014-2016\nConferências\n42nd Brazilian Econometric Society (SBE) Meeting, 2020 (Virtual)\nRio-Sampa Econometrics, 2017\nEducation\nMA in Economics, Catholic University of Rio de Janeiro (PUC-Rio), 2018-2020\nBA in Economics, Catholic University of Rio de Janeiro (PUC-Rio), 2013-2017\nProfessional Experience\nResearch Assistant to Dr Carlos Viana, 2020\nResearch Assistant, DLab, 2017\nTeacher Assistant\nIntroduction to Probability and Statistics (undergraduate), 2020\nMicroeconomic Theory II (undergraduate), 2016\nMacroeconomic Theory I (undergraduate), 2015\nIntroduction to Economics I (undergraduate), 2014\nGrants\nMaster Fellowship, CNPq, 2018-2020\nUndergraduate Research Fellowship (PET), CAPES, 2014-2016\n\n\n\n",
+      "last_modified": "2021-10-13T14:41:45-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Daniel Coutinho",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\nEste é o meu site pessoal. Ele existe mais da necessidade de agrupar várias coisas que eu faço (ou fiz) em um único lugar. O site tenta ter todas as seções em português e inglês.\nAo clicar em Blog, você será redirecionado para o Azul, o blog que eu mantenho com o Pedro Cavalcante. Todos os posts são em português.\nThis is my personal website. It exists out of the necessity to aggregate everything I do in a single place. I tried to guarantee that every page is available in both English and Portuguese.\nThe blog link in the menu above takes you to Azul, a blog I keep with Pedro Cavalcante. All posts are in Portuguese.\n\n\n\n",
+      "last_modified": "2021-10-13T14:41:46-03:00"
+    },
+    {
+      "path": "misc.html",
+      "title": "Miscellaneous",
+      "description": "Interesting stuff that does not fit any other category\n",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-10-13T14:41:47-03:00"
+    },
+    {
+      "path": "research.html",
+      "title": "Research",
+      "description": "Stuff that I did that could be called research.\n",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-10-13T14:41:47-03:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Teaching",
+      "description": "A new article created using the Distill format.\n",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-10-13T14:41:48-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

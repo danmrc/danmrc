@@ -1,0 +1,57 @@
+---
+title: "About"
+description: |
+  Some additional details about me
+---
+
+# Educação
+
+* Mestrado na Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), Economia, 2018-2020
+ Graduação na Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), Ciências Ecônomicas, 2013-2017
+
+# Experiência profissional
+
+* Assistente de pesquisa, Prof Carlos Viana, 2020
+* Assistente de pesquisa, DLab LASA (Lojas Americanas), 2017
+
+
+## Monitorias
+
+* Introdução à Probabilidade e Estatística (graduação), 2020
+* Teoria Microeconômica II (graduação), 2016
+* Teoria Macroeconômica I N (graduação), 2015
+* Introdução à economia I (graduação), 2014
+
+# Bolsas
+
+* Bolsa de Mestrado, CNPQ, 2018-2020
+* Programa de Educação Tutorial (PET), graduação, 2014-2016
+
+# Conferências
+
+* 42nd Brazilian Econometric Society (SBE) Meeting, 2020 (Virtual)
+* Rio-Sampa Econometrics, 2017
+
+---
+
+# Education 
+
+* MA in Economics, Catholic University of Rio de Janeiro (PUC-Rio), 2018-2020
+* BA in Economics, Catholic University of Rio de Janeiro (PUC-Rio), 2013-2017
+
+# Professional Experience
+
+* Research Assistant to Dr Carlos Viana, 2020
+* Research Assistant, DLab, 2017 
+
+## Teacher Assistant
+
+* Introduction to Probability and Statistics (undergraduate), 2020
+* Microeconomic Theory II (undergraduate), 2016
+* Macroeconomic Theory I (undergraduate), 2015
+* Introduction to Economics I (undergraduate), 2014
+
+# Grants
+
+* Master Fellowship, CNPq, 2018-2020
+* Undergraduate Research Fellowship (PET), CAPES, 2014-2016

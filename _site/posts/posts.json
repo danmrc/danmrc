@@ -1,0 +1,87 @@
+[
+  {
+    "path": "posts/2021-10-13-dsge-hmc/",
+    "title": "DSGE & Hamiltonian Monte Carlo",
+    "description": "Estimating DSGE models using Hamiltonian Monte Carlo",
+    "author": [
+      {
+        "name": "Daniel Coutinho",
+        "url": {}
+      }
+    ],
+    "date": "2021-10-13",
+    "categories": [],
+    "contents": "\nModelos DSGE são frequentemente estimados por métodos de Markov Chain Monte Carlo (MCMC). Um método de MCMC que ainda não foi muito explorado por DSGEs é o Hamiltonian Monte Carlo (HMC). Nós (eu e Gilberto Boareto) exploramos como implementar o software para estimar um modelo DSGE usando HMC. Todo o projeto foi escrito em Julia.\nNão escrevemos um artigo sobre o projeto, mas todo o código, com alguns relatórios intermediários, estão no GitHub\nDSGE models are frequently estimated by Markov Chain Monte Carlo (MCMC). Hamiltonian Monte Carlo (HMC) is a method that has not been used to estimate DSGEs. We (I and Gilberto Boaretto) explored how to implement the software. The whole project was written in Julia.\nWe never wrote an article about the project. However, all the code and some reports we wrote are available at GitHub\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-10-13T11:04:38-03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-10-13-iterated-lasso/",
+    "title": "Iterated LASSO",
+    "description": "Using theory and data to select the regularization parameter for the LASSO.",
+    "author": [
+      {
+        "name": "Daniel Coutinho",
+        "url": {}
+      }
+    ],
+    "date": "2021-10-13",
+    "categories": [],
+    "contents": "\nMinha tese de mestrado. Explora como usar o parâmetro de regularização sugerido pela teoria, que depende da variância do erro - normalmente desconhecida. Você pode acessar ela clicando aqui (em inglês)\nMy master degree thesis. It explores how to user the regularization parameter suggested by the theory, that depends on the variance of the error - that is not usually known. You can access it cliclking here (in English)\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-10-13T11:07:28-03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-10-13-julia-para-economistas/",
+    "title": "Julia para Economistas",
+    "description": "Tutorial sobre como usar o Julia, em português, focado para economistas.",
+    "author": [
+      {
+        "name": "Daniel Coutinho",
+        "url": {}
+      }
+    ],
+    "date": "2021-10-13",
+    "categories": [],
+    "contents": "\nJulia é uma linguagem nova, focada para computação científica. Não existem muitos recursos em português para aprender Julia, então eu escrevi um pequeno guia (em português) de como fazer algumas coisas básicas em Julia. Você pode acessar clicando aqui\nJulia is a new language, focused on scientific computing. There are not many resources to learn Julia in Portuguese, so I wrote a small guide in Portuguese about how to use Julia. You can access it clicking here.\nOf course, this only make sense in Portuguese. I could never compete against QuantEcon.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-10-13T14:10:03-03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-10-13-r-para-economistas/",
+    "title": "R para economistas",
+    "description": "Tutorial em portugês de como usar o R",
+    "author": [
+      {
+        "name": "Daniel Coutinho",
+        "url": {}
+      }
+    ],
+    "date": "2021-10-13",
+    "categories": [],
+    "contents": "\nEste é um projeto antigo, que visava ajudar meus colegas de graduação a se entender com o R. Vários deles não tinham facilidade com inglês e/ou computador. Você pode acessar ele clicando aqui\nThis is an old project that I started as an undergaduate student. It’s objective was to help my friends when we were undergraduates, specially those that did not find coding or English easy. You can access it by clicking here.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-10-13T14:10:11-03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-10-13-thesispuc/",
+    "title": "Thesis PUC-Rio",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Daniel Coutinho",
+        "url": {}
+      }
+    ],
+    "date": "2021-10-13",
+    "categories": [],
+    "contents": "\nAparentemente, a versão mais recente (quando este post foi escrito) não permitia que a bibliografia fosse no estilo autor (ano). Este projeto e preservar o estilo da bibliografia como deveria ser pelo padrão da universidade.\nThis is just a small project that makes some small tweaks to the LaTeX class for thesis at PUC-Rio\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-10-13T14:17:30-03:00",
+    "input_file": {}
+  }
+]

@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+description: |
+  A new article created using the Distill format.
+date: "`r Sys.Date()`"
+output: distill::distill_article
+listing:
+  posts:
+    - 2021-10-13-julia-para-economistas
+    - 2021-10-13-r-para-economistas
+---
+
+
+
+
+

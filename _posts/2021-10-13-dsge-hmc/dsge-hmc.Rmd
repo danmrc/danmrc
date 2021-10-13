@@ -1,0 +1,21 @@
+---
+title: "DSGE & Hamiltonian Monte Carlo"
+description: |
+  Estimating DSGE models using Hamiltonian Monte Carlo
+author: ["Daniel Coutinho"]
+date: 10-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Modelos DSGE são frequentemente estimados por métodos de _Markov Chain Monte Carlo_ (MCMC). Um método de MCMC que ainda não foi muito explorado por DSGEs é o _Hamiltonian Monte Carlo_ (HMC). Nós (eu e Gilberto Boareto) exploramos como implementar o software para estimar um modelo DSGE usando HMC. Todo o projeto foi escrito em [Julia](https://julialang.org/).
+
+Não escrevemos um artigo sobre o projeto, mas todo o código, com alguns relatórios intermediários, estão no [GitHub](https://github.com/danmrc/DSGE-HMC/tree/2021_review)
+
+---
+
+DSGE models are frequently estimated by Markov Chain Monte Carlo (MCMC). Hamiltonian Monte Carlo (HMC) is a method that has not been used to estimate DSGEs. We (I and Gilberto Boaretto) explored how to implement the software. The whole project was written in [Julia](https://julialang.org/).
+
+We never wrote an article about the project. However, all the code and some reports we wrote are available at [GitHub](https://github.com/danmrc/DSGE-HMC/tree/2021_review)
+

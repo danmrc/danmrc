@@ -1,0 +1,20 @@
+---
+title: "Julia para Economistas"
+description: |
+  Tutorial sobre como usar o Julia, em português, focado para economistas.
+author:
+  - name: Daniel Coutinho
+date: 10-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+[Julia](https://julialang.org/) é uma linguagem nova, focada para computação científica. Não existem muitos recursos em português para aprender Julia, então eu escrevi um pequeno guia (em português) de como fazer algumas coisas básicas em Julia. Você pode acessar clicando [aqui](https://danmrc.github.io/Julia-Para-Economistas/)
+
+---
+
+[Julia](https://julialang.org/) is a new language, focused on scientific computing. There are not many resources to learn Julia in Portuguese, so I wrote a small guide in Portuguese about how to use Julia. You can access it clicking [here](https://danmrc.github.io/Julia-Para-Economistas/).
+
+Of course, this only make sense in Portuguese. I could never compete against QuantEcon. 
+
