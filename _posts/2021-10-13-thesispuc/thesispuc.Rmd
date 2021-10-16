@@ -1,7 +1,7 @@
 ---
 title: "Thesis PUC-Rio"
 description: |
-  A short description of the post.
+ Pequenas alterações no estilo de tese da PUC-Rio para o LaTeX
 author:
   - name: Daniel Coutinho
 date: 10-13-2021

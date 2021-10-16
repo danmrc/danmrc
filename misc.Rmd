@@ -7,6 +7,7 @@ output: distill::distill_article
 listing:
   posts:
     - 2021-10-13-thesispuc
+    - 2021-10-16-bibecon
 ---
 
 

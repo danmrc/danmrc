@@ -1,0 +1,19 @@
+---
+title: "Bibecon"
+description: |
+  Curadoria de livros úteis para economistas
+author:
+  - name: Daniel Coutinho
+date: 2021-10-16
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Um projeto do Luan Borelli e do Marcelo Gelati que eu contribui. O objetivo é fazer uma curadoria de materiais úteis para economistas - a maioria são livros. Vocês podem acessar [clicando aqui](https://github.com/luanborelli/bib-econ). A lista é em português, mas alguns livros são em inglês. 
+
+
+---
+
+This is a porject by Luan Borelli and MArcelo Gelati that I contributed. The objective is to make a list of useful resources for economists - mostly books. You can access it [here](https://github.com/luanborelli/bib-econ). The list is in Portuguese, but some books are in English.
+
