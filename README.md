@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Personal website: https://danmrc.github.io/danmrc/
+
 <!--
 **danmrc/danmrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
